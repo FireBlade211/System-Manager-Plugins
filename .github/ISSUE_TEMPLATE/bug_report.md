@@ -3,7 +3,7 @@ name: Bug report
 about: Report a bug in a System Manager plugin
 title: '[Plugin Name] Bug description'
 labels: plugin-bug
-assignees: 'FireBlade211'
+assignees: ''
 
 ---
 
