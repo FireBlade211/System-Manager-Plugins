@@ -427,3 +427,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Node.js stuff for the online plugin browser
+site/node_modules

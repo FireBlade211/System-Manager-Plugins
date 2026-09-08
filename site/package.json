@@ -1,0 +1,22 @@
+{
+  "name": "system-manager-plugin-gallery",
+  "version": "1.0.0",
+  "description": "Allows you to view System Manager plugins online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FireBlade211/System-Manager-Plugins/site"
+  },
+  "keywords": [
+    "system-manager;sysman;sysmgr;plugins;browser;viewer;gallery"
+  ],
+  "author": "FireBlade",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1",
+    "jquery": "^4.0.0"
+  }
+}
